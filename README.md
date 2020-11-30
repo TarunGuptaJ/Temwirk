@@ -24,3 +24,5 @@ As our dataset is very large we have shared the link to our pre-executed noteboo
 ## Submission Proof
 We attained a score of 23.610 which can be viewed below
 ![Submission](https://github.com/TarunGuptaJ/Temwirk/blob/master/Images/submission.png)
+
+The link to the csv with the confidence scores and the tracjectories we predicted can be found [here](https://www.kaggle.com/vigneshkkumar127/temwirk/comments?select=submission.csv)
